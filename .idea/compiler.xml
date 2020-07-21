@@ -9,5 +9,6 @@
         <module name="GITPractice" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="9" />
   </component>
 </project>
